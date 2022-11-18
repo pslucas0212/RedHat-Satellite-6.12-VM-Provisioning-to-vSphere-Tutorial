@@ -2,7 +2,7 @@
 
 The Navigation Menu to the mutli-part Red Hat Satellite 6.12 Provisioning RHEL VMs to vSphere Tutorial  
 
-[Part 1: Satellite Installation]()
+[Part 1: Satellite Installation](https://github.com/pslucas0212/Part-1-Satellite-612-Installation/blob/main/README.md)
 
 [Part 2: Preparing the Satellite Environment]()  
 

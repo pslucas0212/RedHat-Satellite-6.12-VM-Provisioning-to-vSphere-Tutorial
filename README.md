@@ -22,7 +22,9 @@ The Navigation Menu to the mutli-part Red Hat Satellite 6.12 Provisioning RHEL V
 
 [Part 10: Satellite VMWare Provisioning Scratch Pad]()  
 
+[Part 11: Configuring virt-who to Support VDC Subscriptions]()
 
-### Apendix Articles
+
+### Appendix Articles
 [Configuring External DNS and DHCP with Satellite](https://github.com/pslucas0212/Configuring-External-DNS-and-DHCP-for-Satellite/blob/main/README.md)
   

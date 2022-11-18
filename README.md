@@ -1,4 +1,4 @@
-# # Red Hat Satellite 6.12 VM Provisioning to vSphere Tutorial  
+# Red Hat Satellite 6.12 VM Provisioning to vSphere Tutorial  
 
 The Navigation Menu to the mutli-part Red Hat Satellite 6.12 Provisioning RHEL VMs to vSphere Tutorial  
 

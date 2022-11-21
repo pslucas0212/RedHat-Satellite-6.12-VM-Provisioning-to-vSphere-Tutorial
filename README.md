@@ -4,7 +4,7 @@ The Navigation Menu to the mutli-part Red Hat Satellite 6.12 Provisioning RHEL V
 
 [Part 1: Satellite 6.12 Installation](https://github.com/pslucas0212/Part-1-Satellite-612-Installation/blob/main/README.md)
 
-[Part 2: DNS and DHCP Integration]()
+[Part 2: DNS and DHCP Integration](https://github.com/pslucas0212/Part-2-Satellite-612-External-Services/blob/main/README.md)
 
 [Part 3: Preparing the Satellite Environment]()  
 

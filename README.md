@@ -8,7 +8,7 @@ The Navigation Menu to the mutli-part Red Hat Satellite 6.12 Provisioning RHEL V
 
 [Part 3: Preparing the Satellite Environment](https://github.com/pslucas0212/Part-3-Red-Hat-Satellite-612-Preparing-the-Satellite-Environment-)  
 
-[Part 4: Preparing Content on Satellite]()  
+[Part 4: Preparing Content on Satellite](https://github.com/pslucas0212/Part-4-Red-Hat-Satellite-6.12-Preparing-Content-on-Satellite)  
 
 [Part 5: Preparing for VMWare Integration]()
 
